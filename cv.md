@@ -26,13 +26,11 @@
 ## Work experience:
 1) Sales representative "Coca-Cola". 
 2) Trade representative "NP-Service" 
-3) Trade representative "Daynova" 
+3) Trade representative "Daynova"
 4) Project specialist "Armature technologies" 
 
 ## Motivation:
-_"Se hai tutto sotto controllo
-significa che non stai andando abbastanza veloce
-"_ - __Mario Andretti__
+_"Se hai tutto sotto controllo significa che non stai andando abbastanza veloce"_ - __Mario Andretti__
 
 ## Code examples Java (Skillbox - free homework):
 ```
@@ -151,8 +149,8 @@ elif over_speed >= 71:
 ## Education:
 * IPD, BSUIR - ncomplete education.
 * primary language - Russian.
-* additional language - English ( A1 )
-* language planned for learning - Polish,English.
+* additional language - English (A1).
+* language planned for learning - Polish,English (A2).
 * Language practice: 
     * Work with suppliers from China, America and Europe. By means of correspondence. 
 
