@@ -1,1 +1,174 @@
-css
+html {
+    scroll-behavior: smooth;      
+  }
+
+.body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.-header { 
+    width: 100%;
+}
+
+.-nav {
+    background-size: auto;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.-ul{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(208, 208, 208);
+    list-style-type: none;
+    align-content: stretch;
+    
+}
+
+.-li {
+    padding: 15jpx 0px ;
+    margin: 15px;
+}
+
+.-li :hover {
+    color: #ff0000;
+  }
+
+.-li-link {
+    color: #000;
+    background-color: rgb(208, 208, 208);
+    padding: 10pt 10pt;
+    text-decoration: none;   
+}
+
+
+.-main {
+    display: flex;
+    background-color: rgb(234, 234, 234);
+    margin: 0pt;
+    padding: 10pt;
+}
+
+
+.-myphoto {
+    width: 30%;
+    margin: 0pt;
+    padding: 0pt;
+}
+
+img {
+    top: 20px;
+    width: 100%;
+    position: sticky;
+    
+    
+}
+
+.-mytext {
+    width: 70%;
+    background-color: rgb(226, 226, 226);
+    margin: 0pt;
+    padding: 20px;
+}
+
+.-section1 {
+    border: 0px solid #000;
+}
+
+.-link {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+
+.-h2 {
+    background-color: rgb(191, 191, 191);
+}
+
+.-ul2 {
+    background-color: rgb(226, 226, 226);
+}
+
+.contact {
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+}
+.contact :hover {
+    color: #ff0000;
+}
+
+
+.goals {
+    font-size: 16px;
+}
+
+.priorities {
+    font-size: 16px;
+
+}
+
+.strengths {
+    font-size: 16px;
+
+}
+
+.work {
+    font-size: 16px;
+
+
+}
+.motivation {
+    font-size: 16px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.code {
+    font-size: 10px;
+}
+
+
+.education {
+    font-size: 16px;
+}
+
+.footer {
+    height: 50px;
+    background-color: rgb(234, 234, 234);
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 10px 20px 5px;
+    margin: 0px;
+}
+  
+.box {
+    display: block;
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.footer-section :hover {
+    background-color: #00ff2ab5;
+    border-radius: 30px ;
+}
+
+.footer-section2 :hover {
+    background-color: #00ff2ab5;
+}
+
+div.year {
+    width: 50px;
+    height: 20px;
+    text-align: center;
+    padding: 40px 0px 0px 0px;
+}
+
+.rsshool {
+    height: 100%;
+}

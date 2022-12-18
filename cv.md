@@ -1,39 +1,46 @@
 # __Aliaksandr Butsin__
 
-## Contacts:
+## Contacts
+
 * mobil phone: __+48 783-788-293__
 * messendger: __+375(29)669-55-20__
-* e-mail: [aliaksandrbutsin@gmail.com](mailto:aliaksandrbutsin@gmail.com) 
-* discord:[AliaksandrButsin#9375](https://discord.com/users/AliaksandrButsin#9375/) 
+* e-mail: [aliaksandrbutsin@gmail.com](mailto:aliaksandrbutsin@gmail.com)
+* discord:[AliaksandrButsin#9375](https://discord.com/users/AliaksandrButsin#9375/)
 
-## My goals:
+## My goals
+
 1) Get an idea of the front-end developer profession.
 2) Choose the direction that seems to me the most promising and understandable in the field of programming.
 3) Achieve a high level in the chosen specialty.
 
-## The main priorities:
+## The main priorities
+
 1. Complete the course __stage 0, stage 1__,
 2. Learn the necessary material for passing __stage 2, stage 3__,
 3. Use the acquired knowledge to solve problems in funded projects.
 
-## Strengths:
+## Strengths
+
 1) Communication skills.
 1) The desire for systematization.
 1) Purposefulness
 1) Search for non-standard solutions.
 1) Thoroughness.
 
-## Work experience:
-1) Sales representative "Coca-Cola". 
-2) Trade representative "NP-Service" 
-3) Trade representative "Daynova"
-4) Project specialist "Armature technologies" 
+## Work experience
 
-## Motivation:
+1) Sales representative "Coca-Cola".
+2) Trade representative "NP-Service"
+3) Trade representative "Daynova"
+4) Project specialist "Armature technologies"
+
+## Motivation
+
 _"Se hai tutto sotto controllo significa che non stai andando abbastanza veloce"_ - __Mario Andretti__
 
-## Code examples Java (Skillbox - free homework):
-```
+## Code examples Java (Skillbox - free homework)
+
+```Java
 public class main
 {
     public static void main (String[] args) throws java.lang.Exception
@@ -95,8 +102,10 @@ public class main
 }
 
 ```
-## Code examples Python (Skillbox - free homework):
-```
+
+## Code examples Python (Skillbox - free homework)
+
+```Python
 print("Система расчёта штрафов")
 
 car_speed = 91
@@ -146,11 +155,11 @@ elif over_speed >= 71:
 
 ```
 
-## Education:
+## Education
+
 * IPD, BSUIR - ncomplete education.
 * primary language - Russian.
 * additional language - English (A1).
 * language planned for learning - Polish,English (A2).
-* Language practice: 
-    * Work with suppliers from China, America and Europe. By means of correspondence. 
-
+* Language practice:
+  * Work with suppliers from China, America and Europe. By means of correspondence.
